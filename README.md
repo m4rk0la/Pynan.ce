@@ -19,5 +19,9 @@ Este projeto não apenas demonstra minhas habilidades técnicas, mas também meu
 
 Agradeço por explorar meu projeto e estou ansioso(a) para compartilhar mais sobre como estou transformando dados em insights valiosos!
 
+*LIBRARY:*
+- PyGObjects
+- Weasyprint
+- Django
 
-* Ultiliza o ecossistema GNOME ( Projetado inicialmente para Unix )
+
